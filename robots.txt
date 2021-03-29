@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://nnadozieomeonu.github.io/sitemap.xml
+Sitemap: https://nnadozieomeonu.github.io/blog-public-dir/sitemap.xml
