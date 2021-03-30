@@ -16,5 +16,14 @@
       <description>Welcome to my Blog Some text about me</description>
     </item>
     
+    <item>
+      <title>My categories</title>
+      <link>https://www.nnadozieomeonu.com/post/hidden-post/</link>
+      <pubDate>Thu, 08 Mar 2018 17:40:19 +0800</pubDate>
+      
+      <guid>https://www.nnadozieomeonu.com/post/hidden-post/</guid>
+      <description>&lt;p&gt;This post is hidden from the home page.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
